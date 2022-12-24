@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrtx
+- 👋 Hi, I’m @mrtxgamer
 - 👀 I’m interested in darkweb, gaming. 
 - 🌱 I’m currently learning software development.
 - 💞️ I’m looking to collaborate on darkweb.
