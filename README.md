@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrtxgamer
-- 👀 I’m interested in darkweb, gaming, cyber security,networking, pen testing.
+- 👀 I’m interested in gaming, cyber security,networking, pen testing.
 - 🌱 I’m currently learning software development.
-- 💞️ I’m looking to collaborate on darkweb.
+
 - 📫 How to reach me, give a try.
 
 <!---
