@@ -1,6 +1,6 @@
 **👋 Hi, I’m @mrtxgamer** Software Engineer.
 - **👀 I’m interested in gaming, cyber security, networking, and pen testing.**
-- **🌱 Web development** (Laravel + Livewire, Bootstrap, JS, CSS, HTML, VPS, Hostinger, Devops, SQE, APIs, Maintenance, New Features, and more)
+- **🌱 Web development** (Laravel + Livewire, PHP, Bootstrap, JS, CSS, HTML, VPS, Hostinger, Devops, SQE, APIs, Maintenance, New Features, and more)
 
 - **Comercial/Industry Projects I have done so far are:**
 - 1. **TMHS (School) Website** (tmhs.edu.pk)
