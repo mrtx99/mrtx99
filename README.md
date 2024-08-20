@@ -4,7 +4,7 @@
 - **👀 Hobbies** (Network Design, EH, Software Testing, Learning new technologies, Improving skills, Practicing new tools, Explore Laravel new features, Learning LiveWire).
 
 - **Comercial/Industry Projects I have done so far are:**
-- 1. **TMHS Website** (tmhs.edu.pk)
+- 1. **TMHS (School) Website** (tmhs.edu.pk)
   2. **School Portal**/ Internal teams Management system
   3. **Student Portal**  
   4. **CyberDev** (cyberdev.com.pk) Software Agency
@@ -13,7 +13,9 @@
   7. **RDI** (Rural Development Initiatives Organization)
   8. **Digital Marketing Agency** Portfolio
   9.  **Healhub** Medical services
-  10. 
+
+    **Services offering:**
+  Contact me for any kind of services related to Web development, Hosting, Domains, Web Testing, Vulnerability testing, VPS, System Admin, DevOps and more.
 - 📫 How to reach me, tahirabbas.taf@gmail.com
 
 <!---
