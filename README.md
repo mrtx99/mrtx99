@@ -3,7 +3,7 @@
 - **🌱 Web development (Laravel + Livewire, Bootstrap, JS, CSS, HTML, VPS, Hostinger, Devops, SQE, APIs, Maintenance, New Features, and more)**
 - **👀 Hobbies (Network Design, EH, Software Testing, Learning new technologies, Improving skills, Practicing new tools, Explore Laravel new features, Learning LiveWire).**
 
-- **Projects I have done so far are:**
+- **Comercial/Industry Projects I have done so far are:**
 - 1. **TMHS Website** (tmhs.edu.pk)
   2. **School Portal**/ Internal teams Management system
   3. **Student Portal**  
