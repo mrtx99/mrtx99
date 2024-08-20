@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrtxgamer
-- 👀 I’m interested in gaming, cyber security,networking, pen testing.
-- 🌱 I’m currently learning software development.
+- 👀 I’m interested in gaming, cyber security, networking, and pen testing.
+- 🌱 Web development (Laravel + Livewire, Bootstrap, JS, CSS, HTML, VPS, Hostinger, Devops, SQE, API's, Maintenance, New Features and more)
 
 - 📫 How to reach me, give a try.
 
