@@ -13,12 +13,15 @@
   8. **Digital Marketing Agency** Portfolio
   9.  **Healhub** Medical services
 
+- **👀 Hobbies** (Network Design, EH, Software Testing, Learning new technologies, Improving skills, Practicing new tools, Explore Laravel new features, Learning LiveWire).
+
+  
     **Services offering:**
   Contact me for any kind of services related to Web development, Hosting, Domains, Web Testing, Vulnerability testing, VPS, System Admin, DevOps and more.
 - 📫 How to reach me, tahirabbas.taf@gmail.com
 
 
-- **👀 Hobbies** (Network Design, EH, Software Testing, Learning new technologies, Improving skills, Practicing new tools, Explore Laravel new features, Learning LiveWire).
+
 
   
 <!---
